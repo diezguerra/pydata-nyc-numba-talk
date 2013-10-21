@@ -1,6 +1,7 @@
-# pycon-finland-numba-talk
+# pydata-nyc-numba-talk
 
-IPython notebooks and slides from the PyCon Finland Numba talk
+IPython notebooks and slides from the PyData NYC Numba talk
 
-## Slides
-* [My first numba](http://diezguerra.github.io/pycon-finland-numba-talk)
+## Notebooks (IPython NBViewer)
+* [Caveats](http://goo.gl/cPbEMB)
+* [Examples](http://goo.gl/VxvFHd)
